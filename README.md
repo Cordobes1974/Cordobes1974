@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cordobes1974
 - 👀 I’m interested in ...Learn to code
-- 🌱 I’m currently learning ...Promgraming in Python
+- 🌱 I’m currently learning ...Programing in Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
